@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Cafe Bliss</title>
+  <style>
+         /* To set a background color */
+        body {
+            background-color: lightbrown;
+        }
+
+     <body>
+   <body background= "D:\a b c\dd\dd\new\NEW MOVIES1\New folder\1\new movies\images\background.jpg"
+   <\body>
+
+ 
+    /* Reset & Base Styles */
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+   
+    body {
+      font-family: 'Arial', sans-serif;
+      line-height: 1.6;
+      background: #f8f8f8;
+      color: #333;
+    }
+    a {
+      text-decoration: none;
+      color: inherit;
+    }
+
+     
+    /* Header */
+    header {
+      background: #3c3c3c;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+    header p {
+      margin-top: 10px;
+      font-size: 1.1em;
+    }
+    /* Navigation */
+    nav {
+      background: #555;
+      padding: 10px;
+      text-align: center;
+    }
+    nav a {
+      color: #fff;
+      margin: 0 15px;
+      font-weight: bold;
+      transition: color 0.3s ease;
+    }
+    nav a:hover {
+      color: #ffcc00;
+    }
+    /* Hero Section */
+    .hero {
+      background-image: url('D:\a b c\dd\dd\new\NEW MOVIES1\New folder\1\new movies\images\background.jpg') no-repeat center center/cover;
+       background-attachment:fixed
+       background-size:100% 100%
+      height: 400px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+    }
+    .hero h1 {
+      color: #fff;
+      font-size: 3em;
+      text-shadow: 2px 2px 5px rgba(0,0,0,0.6);
+    }
+    /* Content Sections */
+    section {
+      padding: 40px 20px;
+    }
+    section h2 {
+      text-align: center;
+      margin-bottom: 20px;
+      font-size: 2em;
+    }
+    /* Menu Section */
+    .menu {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+    .menu-item {
+      background: #fff;
+      border-radius: 5px;
+      margin: 15px;
+      padding: 20px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+      width: 250px;
+      text-align: center;
+    }
+    .menu-item img {
+      max-width: 100%;
+      border-radius: 5px;
+    }
+    .menu-item h3 {
+      margin: 15px 0 10px;
+      font-size: 1.5em;
+    }
+    /* Contact Form */
+    form {
+      max-width: 600px;
+      margin: 0 auto;
+    }
+    form label {
+      display: block;
+      margin: 15px 0 5px;
+      font-weight: bold;
+    }
+    form input, form textarea {
+      width: 100%;
+      padding: 10px;
+      border: 1px solid #ccc;
+      border-radius: 3px;
+    }
+    form button {
+      display: block;
+      width: 100%;
+      padding: 10px;
+      margin-top: 15px;
+      background: #3c3c3c;
+      color: #fff;
+      border: none;
+      border-radius: 3px;
+      cursor: pointer;
+      font-size: 1em;
+      transition: background 0.3s ease;
+    }
+    form button:hover {
+      background: #555;
+    }
+    /* Footer */
+    footer {
+      background: #3c3c3c;
+      color: #fff;
+      text-align: center;
+      padding: 15px;
+    }
+
+ body{
+       background-image"url("D:\a b c\dd\dd\new\NEW MOVIES1\New folder\1\new movies\images\offee-5417663_1280..webp")
+       background-repeat:no-repeat;
+       background-size:cover;
+       backgroung-attachment:fixed;
+   }
+   <\body>
+
+    /* Responsive */
+    @media (max-width: 768px) {
+      .menu {
+        flex-direction: column;
+        align-items: center;
+      }
+    }
+  </style>
+</head>
+<body>
+  <!-- Header -->
+  <header>
+
+    <h1>lokesh Cafe Bliss and chaichology</h1>
+    <p>Experience the best coffee in town</p>
+  </header>
+ <head>
+
+<title>Website Background</title>
+   <body>
+   <body background= "D:\a b c\dd\dd\new\NEW MOVIES1\New folder\1\new movies\images\offee-5417663_1280..webp"
+   <\body>
+
+  <!-- Navigation -->
+  <nav>
+    <a href="#home">Home</a>
+    <a href="#menu">Menu</a>
+    <a href="#about">About Us</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <!-- Hero Section -->
+  <section class="hero" id="home">
+    <h1>Welcome to lokesh Cafe Bliss and chaichology</h1>
+    
+  </section>
+
+  <!-- Menu Section -->
+  <section id="menu">
+    <h2>Our Menu</h2>
+    <div class="menu">
+      <div class="menu-item">
+        <img src="D:\a b c\dd\dd\new\NEW MOVIES1\New folder\1\new movies\images\OIP (1).jpg" alt="Fresh Brewed Coffee">
+        <h3>Coffee</h3>
+        <p>Rs.100.00</p>
+      </div>
+      <div class="menu-item">
+        <img src="D:\a b c\dd\dd\new\NEW MOVIES1\New folder\1\new movies\images\OIP (3).jpg" alt="Creamy Latte">
+        <h3>Latte</h3>
+        <p>Rs.80.00</p>
+      </div>
+      <div class="menu-item">
+        <img src="D:\a b c\dd\dd\new\NEW MOVIES1\New folder\1\new movies\images\32.latte-art.jpg" alt="Espresso Shot">
+        <h3>Espresso</h3>
+        <p>Rs.40.00</p>
+      </div>
+      <!-- Additional menu items can be added here -->
+    </div>
+  </section>
+
+  <!-- About Section -->
+  <section id="about">
+    <h2>About Us</h2>
+    <p>At lokesh Cafe Bliss, The success story of Chaichology
+Our Company Chaichology is a rapidly growing Tea-Chain, founded in 2025 by two young and passionate entrepreneurs – Nitish Kumar and Logesh,Chaichology is a fast-growing tea chain that blends tradition with innovation. Rooted in Tamil Nadu, we are renowned for our high-quality offerings and exceptional service. Our mission is to make chai not just a beverage but an experience—served sustainably in eco-friendly rice grain cups. With a vision to create a global presence while championing environmental responsibility, we are dedicated to preserving Mother Earth, one cup at a time.
+ we believe in creating an inviting atmosphere paired with expertly brewed coffee. Whether you're looking for a quiet spot to work or a place to catch up with friends, our café is the perfect destination.</p>
+
+<img src="D:\a b c\dd\dd\new\NEW MOVIES1\New folder\1\new movies\images\Screenshot.jpg" width="240" height="340"
+     art="picture of screenshot" title="running with these is not recommended."
+     align="left"\>
+  </section>
+
+
+  <!-- Contact Section -->
+  <section id="contact">
+    <h2>Contact Us</h2>
+    <form id="contactForm">
+      <label for="name">Name:</label>
+      <input type="text" id="name" name="name" required>
+      
+      <label for="email">Email:</label>
+      <input type="email" id="email" name="email" required>
+      
+      <label for="message">Message:</label>
+      <textarea id="message" name="message" rows="4" required></textarea>
+      
+      <button type="submit">Send Message</button>
+    </form>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <p>&copy; 2025 Cafe Bliss. All Rights Reserved.</p>
+  </footer>
+
+  <!-- JavaScript -->
+  <script>
+    // Simple form handler for demonstration
+    document.getElementById('contactForm').addEventListener('submit', function(event) {
+      event.preventDefault();
+      alert('Thank you for reaching out! We will get back to you soon.');
+      this.reset();
+    });
+  </script>
+</body>
+</html>
